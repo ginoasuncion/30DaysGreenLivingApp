@@ -109,7 +109,7 @@ fun GreenLivingItem(
             ) {
                 Text(
                     text = "Day ${task.day}",
-                    style = MaterialTheme.typography.displayMedium, // Make Day text larger
+                    style = MaterialTheme.typography.displayMedium,
                     color = MaterialTheme.colorScheme.primary,
                     modifier = Modifier.weight(1f)
                 )
@@ -123,7 +123,7 @@ fun GreenLivingItem(
                 }
             }
 
-            Spacer(modifier = Modifier.height(4.dp)) // Reduce spacing between Day and Title
+            Spacer(modifier = Modifier.height(4.dp))
 
             Text(
                 text = stringResource(task.titleResId),
