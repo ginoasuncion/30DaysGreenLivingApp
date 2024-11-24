@@ -1,0 +1,68 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">30 Days of Green Living</string>
+
+    <!-- Task Titles -->
+    <string name="task_1_title">Bring Your Own Bag</string>
+    <string name="task_2_title">Switch to Reusable Bottles</string>
+    <string name="task_3_title">Reduce Food Waste</string>
+    <string name="task_4_title">Turn Off Unused Electronics</string>
+    <string name="task_5_title">Start Composting</string>
+    <string name="task_6_title">Use Public Transport</string>
+    <string name="task_7_title">Avoid Plastic Straws</string>
+    <string name="task_8_title">Unplug Devices</string>
+    <string name="task_9_title">Plant a Tree or Flowers</string>
+    <string name="task_10_title">Buy Local Produce</string>
+    <string name="task_11_title">Switch to LED Bulbs</string>
+    <string name="task_12_title">Shorten Your Shower</string>
+    <string name="task_13_title">Use Cloth Napkins</string>
+    <string name="task_14_title">Support Eco-Friendly Brands</string>
+    <string name="task_15_title">Go Paperless</string>
+    <string name="task_16_title">Recycle Correctly</string>
+    <string name="task_17_title">Repurpose Items</string>
+    <string name="task_18_title">Buy in Bulk</string>
+    <string name="task_19_title">Switch to Natural Cleaners</string>
+    <string name="task_20_title">Use Rechargeable Batteries</string>
+    <string name="task_21_title">Avoid Fast Fashion</string>
+    <string name="task_22_title">Go Meat-Free</string>
+    <string name="task_23_title">Clean Up Your Neighborhood</string>
+    <string name="task_24_title">Optimize Your Fridge</string>
+    <string name="task_25_title">Borrow Instead of Buying</string>
+    <string name="task_26_title">Avoid Microbeads</string>
+    <string name="task_27_title">Use Natural Light</string>
+    <string name="task_28_title">Use Reusable Coffee Cups</string>
+    <string name="task_29_title">Reduce Packaging Waste</string>
+    <string name="task_30_title">Reflect and Plan Ahead</string>
+
+    <!-- Task Descriptions -->
+    <string name="task_1_desc">Start your green journey by using reusable bags for your grocery shopping instead of plastic bags.</string>
+    <string name="task_2_desc">Ditch single-use plastic water bottles and switch to a reusable one.</string>
+    <string name="task_3_desc">Plan your meals to avoid over-purchasing and wasting food.</string>
+    <string name="task_4_desc">Save energy by turning off lights and electronics when not in use.</string>
+    <string name="task_5_desc">Learn how to compost kitchen scraps to reduce landfill waste.</string>
+    <string name="task_6_desc">Opt for public transport or carpooling to reduce your carbon footprint.</string>
+    <string name="task_7_desc">Use reusable or biodegradable straws to minimize plastic waste.</string>
+    <string name="task_8_desc">Unplug chargers and devices when not in use to save energy.</string>
+    <string name="task_9_desc">Plant something green to improve air quality and beautify your surroundings.</string>
+    <string name="task_10_desc">Support local farmers and reduce transportation emissions by buying locally grown food.</string>
+    <string name="task_11_desc">Replace traditional bulbs with energy-efficient LED bulbs.</string>
+    <string name="task_12_desc">Take a 5-minute shower to save water and reduce energy use.</string>
+    <string name="task_13_desc">Replace disposable napkins with reusable cloth napkins.</string>
+    <string name="task_14_desc">Research and support brands that prioritize sustainability.</string>
+    <string name="task_15_desc">Opt for digital receipts and bills to save paper.</string>
+    <string name="task_16_desc">Learn how to properly sort and recycle household waste.</string>
+    <string name="task_17_desc">Get creative and repurpose old items instead of throwing them away.</string>
+    <string name="task_18_desc">Purchase bulk items to reduce packaging waste.</string>
+    <string name="task_19_desc">Use eco-friendly cleaning products or make your own using natural ingredients like vinegar and baking soda.</string>
+    <string name="task_20_desc">Switch to rechargeable batteries to reduce toxic waste.</string>
+    <string name="task_21_desc">Buy second-hand or high-quality clothing to minimize environmental impact.</string>
+    <string name="task_22_desc">Try a vegetarian or vegan meal to reduce your carbon footprint.</string>
+    <string name="task_23_desc">Join or organize a community cleanup to reduce litter.</string>
+    <string name="task_24_desc">Organize your fridge to reduce food spoilage and energy use.</string>
+    <string name="task_25_desc">Borrow tools, books, or equipment you only need temporarily.</string>
+    <string name="task_26_desc">Stop using products containing microbeads, which harm marine life.</string>
+    <string name="task_27_desc">Turn off lights during the day and use natural sunlight instead.</string>
+    <string name="task_28_desc">Bring your own coffee cup when getting takeout coffee.</string>
+    <string name="task_29_desc">Opt for items with minimal or biodegradable packaging.</string>
+    <string name="task_30_desc">Reflect on your 30-day journey and plan how to continue your green habits.</string>
+</resources>
